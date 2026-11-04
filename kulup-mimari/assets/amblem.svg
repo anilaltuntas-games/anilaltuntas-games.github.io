@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="96 54 320 400">
+<defs><clipPath id="sh"><path d="M256 70 L398 116 V246 C398 338 336 402 256 438 C176 402 114 338 114 246 V116 Z"/></clipPath></defs>
+<path d="M256 70 L398 116 V246 C398 338 336 402 256 438 C176 402 114 338 114 246 V116 Z" fill="#0f3a26"/>
+<g clip-path="url(#sh)" stroke="#e0aa22" stroke-opacity=".13" stroke-width="3"><path d="M114 160H398M114 210H398M114 260H398M114 310H398M114 360H398M114 410H398"/><path d="M156 70V440M206 70V440M256 70V440M306 70V440M356 70V440"/></g>
+<path d="M256 70 L398 116 V246 C398 338 336 402 256 438 C176 402 114 338 114 246 V116 Z" fill="none" stroke="#e0aa22" stroke-width="18" stroke-linejoin="round"/>
+<path d="M192 314 Q256 350 320 314" fill="none" stroke="#e0aa22" stroke-width="15" stroke-linecap="round"/>
+<path d="M244 198 L174 378 L203 365 L266 206 Z" fill="#f2c449"/>
+<path d="M268 198 L338 378 L309 365 L246 206 Z" fill="#e0aa22"/>
+<clipPath id="bc"><circle cx="256" cy="170" r="42"/></clipPath><circle cx="256" cy="170" r="42" fill="#f7f8f2"/><g clip-path="url(#bc)"><polygon points="256.0,155.0 270.3,165.4 264.8,182.1 247.2,182.1 241.7,165.4" fill="#16211a"/><path d="M256.0 155.0L256.0 140.0" stroke="#16211a" stroke-width="3"/><polygon points="276.0,142.5 271.3,128.0 283.6,119.0 296.0,128.0 291.3,142.5" fill="#16211a"/><path d="M270.3 165.4L284.5 160.7" stroke="#16211a" stroke-width="3"/><polygon points="288.3,180.5 300.7,171.5 313.1,180.5 308.3,195.0 293.1,195.0" fill="#16211a"/><path d="M264.8 182.1L273.6 194.3" stroke="#16211a" stroke-width="3"/><polygon points="256.0,204.0 268.4,213.0 263.6,227.5 248.4,227.5 243.6,213.0" fill="#16211a"/><path d="M247.2 182.1L238.4 194.3" stroke="#16211a" stroke-width="3"/><polygon points="223.7,180.5 218.9,195.0 203.7,195.0 198.9,180.5 211.3,171.5" fill="#16211a"/><path d="M241.7 165.4L227.5 160.7" stroke="#16211a" stroke-width="3"/><polygon points="236.0,142.5 220.7,142.5 216.0,128.0 228.4,119.0 240.7,128.0" fill="#16211a"/></g><circle cx="256" cy="170" r="42" fill="none" stroke="#0f3a26" stroke-width="6"/>
+</svg>
